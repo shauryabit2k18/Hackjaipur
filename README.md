@@ -86,6 +86,26 @@ We tried to make the poll anonymous thus not revealing the name of the user who 
 
 3.Enabling organisations to make multiple additions, removals and corrections to their database as per their needs.
 
+## Gallery
+
+#### Registration
+![1](1.png)
+
+#### Login
+![2](2.png)
+
+#### Home Page
+![3](3.png)
+
+#### Voting
+![4](4.png)
+
+#### Results
+![5](5.png)
+
+#### Ceate Poll
+![6](6.png)
+
 ## Authors
 
 - Parag Mittal
