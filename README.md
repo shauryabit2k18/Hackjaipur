@@ -29,15 +29,15 @@ These instructions will get you a copy of the project up and running on your loc
 	<li>For that first install virtual environment:  
                          pip install virtualenv</li>
 
-	<li>Now change the current working directory to        
+	Now change the current working directory to        
      the   
      directory containing the content of the     
-     repository u downloaded: cd directory_path</li>
+     repository u downloaded: cd directory_path
 
-	<li>Now create a virtual environment using    
+	Now create a virtual environment using    
     command :               virtualenv myenv
 	and then activate you environment : 
-                         myenv\scripts\activate</li>
+                         myenv\scripts\activate
 
 <li>Now copy the requirements.txt file (saved in venv folder in the same directory you are working in) to the current directory(manually)  and install all packages required for the program to run : pip install -rrequirements.txt </li>
 <li>After running the above command the your PC will start downloading all the packages mentioned in requirement.txt
