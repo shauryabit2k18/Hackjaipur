@@ -57,6 +57,27 @@ These instructions will get you a copy of the project up and running on your loc
 
 3.Preventing users from creating fake accounts and multiple accounts as their entry into the system is regulated through the database with their unique username and face-id.
 
+## Challenges We Faced
+
+Integrating a deep learning model to the website was a very challenging task and required a lot of time and attention.
+We just wanted to decrease the bandwidth and keep the privacy of the user (even while we were taking the image of the user from time to time) , so for that we had to convert the image to some vector before storing and transmitting it.
+We tried to make the poll anonymous thus not revealing the name of the user who created any poll or vote any of the poll. 
+
+
+## TECHNOLOGIES USED:
+
+- Deep Learning
+- Machine Learning
+- Django
+- Python
+- Java Script
+- Html
+- CSS
+- Tensorflow
+- CSS
+- HTML
+
+
 ## Scope
 
 1.Completely digitalising user’s work profile.We can extend this project to completely digitalise a person’s work progress by creating a database to store their current work status and their past work history .
