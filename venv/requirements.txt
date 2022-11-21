@@ -140,7 +140,7 @@ stripe==2.48.0
 tensorboard==2.1.1
 tensorboard-plugin-wit==1.6.0.post3
 tensorflow==2.1.0
-tensorflow-cpu==2.2.0
+tensorflow-cpu==2.8.4
 tensorflow-estimator==2.1.0
 tensorflow-hub==0.7.0
 tensorflow-serving-api==2.1.0
